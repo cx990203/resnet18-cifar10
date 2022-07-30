@@ -10,5 +10,9 @@ white_balance_val.py--白平衡测试脚本（应付作业用的），用于测�
 图像色调调整主要在HSV空间当中进行</br>
 共使用五种常见白平衡方法对图像进行处理：均值、完美反射、灰度世界假设、基于图像分析的偏色检测及颜色校正、动态阈值法。</br>
 白平衡源码放置于utils.py文件当中。</br>
-算法源码摘自博客：https://blog.csdn.net/weixin_34910922/article/details/109106029（如有侵权，请联系删除）</br>
-
+算法源码摘自博客（如有侵权，请联系删除）：https://blog.csdn.net/weixin_34910922/article/details/109106029</br>
+算法测试结果图：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/181867027-2c16f7ad-ba0d-4174-901c-15ef40fedb9f.png>
+  <img src=https://user-images.githubusercontent.com/77096562/181867037-0e691ff6-5892-4ae1-b66d-aa080dcd2477.png>
+</div>
