@@ -5,7 +5,7 @@ resnet.py--resnet18模型存放文件</br>
 train.py--训练脚本，默认导入cifar-10数据集</br>
 utils.py--工具函数存放脚本</br>
 white_balance_val.py--白平衡测试脚本（应付作业用的），用于测试图像在经过色调调整后的推理准确率，以及再加上白平衡处理之后的准确率。当然由于cifar-10数据集图像像素较小，有一定效果但并不是很好。</br>
-模型工程百度云（内含上述测试的模型参数文件）：链接：https://pan.baidu.com/s/1NHMFLojHWHT56NxQA0Oh9Q </br>
+模型工程百度云（内含上述测试的模型参数.pth文件）：链接：https://pan.baidu.com/s/1NHMFLojHWHT56NxQA0Oh9Q </br>
 提取码：eazm </br>
 
 ## white_balance_val.py文档说明
