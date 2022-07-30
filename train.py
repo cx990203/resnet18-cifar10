@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 if __name__ == '__main__':
     batch_size = 32
-    Epoch = 200
+    Epoch = 50
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
     print(f'using device: {device}')
 
